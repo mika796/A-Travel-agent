@@ -36,13 +36,13 @@ AI **multi-agent systems** allow for **domain-specific expertise**, parallel pro
 ### 🔧 Live System Demonstration
 
 ## 🎨 User Interface Overview
-
+![Agent Work](agent.png)
 
 ## 🤖 Multi-Agent Execution in Action
-
+![Travel Cover](travel.png)
 
 ## 📄 Generated Travel Plans
-
+![Agent Work](agent1.png)
 
 
 ---
