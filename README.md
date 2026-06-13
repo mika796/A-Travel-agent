@@ -33,7 +33,7 @@ AI **multi-agent systems** allow for **domain-specific expertise**, parallel pro
 4. **Results are aggregated** and passed through a synthesis pipeline
 5. **Final travel plan is generated** in structured markdown format, with export options
 
-### 🔧 Live System Demonstration
+
 
 ## 🎨 User Interface Overview
 ![Agent Work](agent.png)
