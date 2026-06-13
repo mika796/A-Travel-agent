@@ -36,15 +36,14 @@ AI **multi-agent systems** allow for **domain-specific expertise**, parallel pro
 ### 🔧 Live System Demonstration
 
 ## 🎨 User Interface Overview
-![alt text](<assets/Screenshot 2025-07-25 223547.png>)
+
 
 ## 🤖 Multi-Agent Execution in Action
-![alt text](<assets/Screenshot 2025-07-25 223642.png>)
+
 
 ## 📄 Generated Travel Plans
-![alt text](assets/image.png)
-![alt text](assets/image-1.png)
-![alt text](assets/image-2.png)
+
+
 
 ---
 
@@ -130,7 +129,7 @@ This will transform the system into a **fully autonomous travel companion**—fr
 
 ```bash
 # 1️ Clone the project
-git clone https://github.com/happyrao78/ninja-navigator-ai
+git clone https://github.com/mika796/A-Travel-agent
 cd ninja-navigator-ai
 
 # 2️ Create a virtual environment
@@ -155,13 +154,5 @@ uvicorn main:app --reload --port 8000
 # 7️ Launch frontend UI
 streamlit run streamlit_app.py
 ```
-
----
-
-##  Architected By
-
-**Happy Yadav**
-🔗 [LinkedIn](https://www.linkedin.com/in/happy-yadav-16b2a4287/)
-🌐 [Portfolio](https://www.yadavhappy.in)
 
 ---
